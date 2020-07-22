@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joshua Kingsbury / JoKing.Space"
-title_separator          : "@"
+title                    : "Joshua Kingsbury"
+title_separator          : "-"
 name                     : &name "Joshua Kingsbury"
 description              : &description "personal description"
 url                      : https://joshuaekingsbury.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Joshua Kingsbury"
-  avatar           : "profile.png"
-  bio              : "Astro/Physics Undegrad; Data Science"
+  avatar           : "author.png"
+  bio              : "Astro/Physics Undegrad; \nCompSci Minor"
   location         : "Columbus, OH"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
