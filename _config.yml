@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joshua Kingsbury - JoKing.Space"
-title_separator          : "-"
+title                    : "Joshua Kingsbury / JoKing.Space"
+title_separator          : "@"
 name                     : &name "Joshua Kingsbury"
 description              : &description "personal description"
 url                      : https://joshuaekingsbury.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -99,7 +99,7 @@ author:
   github           : "joshuaekingsbury"
   google_plus      :
   keybase          :
-  instagram        : "joshuakingsbury"
+  instagram        : "joshua.e.kingsbury"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
