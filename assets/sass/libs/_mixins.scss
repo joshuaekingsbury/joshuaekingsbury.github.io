@@ -28,6 +28,10 @@
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 900;
 		}
+		@elseif ($category == academicon) {
+			font-family: 'Academicon';
+			font-weight: 400;
+		}
 		@else {
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
