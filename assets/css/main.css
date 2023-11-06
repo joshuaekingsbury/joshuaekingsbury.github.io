@@ -1209,6 +1209,8 @@ input[type="radio"] + label:before {
     font-weight: 900; }
   .icon.brands:before {
     font-family: 'Font Awesome 5 Brands'; }
+  .icon.academicons:before {
+    font-family: 'Academicons'; }
 
 /* Image */
 .image {
